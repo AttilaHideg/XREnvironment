@@ -1,10 +1,6 @@
-# Mobilszoftver laboratórium
+# AR/VR Kísérleti környezet
 
-![Build docs](https://github.com/viaumb02/laborok/workflows/Build%20docs/badge.svg?branch=main)
-
-[BMEVIAUMB02 - Mobilszoftver laboratórium](https://www.aut.bme.hu/Course/VIAUMB02) tárgy laborfeladatai.
-
-A jegyzetek MkDocs segítségével készülnek és GitHub Pages-en kerülnek publikálásra: <https://viaumb02.github.io/laborok/>
+![Build docs](https://github.com/AttilaHideg/XREnvironment/workflows/Build%20docs/badge.svg?branch=main)
 
 Az MKDocs használatához [a hivatalos dokumentáció](https://squidfunk.github.io/mkdocs-material/creating-your-site/) segítségedre lehet.
 

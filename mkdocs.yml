@@ -1,4 +1,4 @@
-site_name: XREnivorment
+site_name: AR/VR Kísérleti környezet
 site_author:  Hideg Attila
 copyright: Copyright &copy; BME VIK AUT
 repo_name: AttilaHideg/XREnvironment
@@ -79,15 +79,10 @@ plugins:
       branch: main
 
 nav:
-  - "Tudnivalók":
+  - "XR Környezet":
       - index.md
-      - tudnivalok/github/GitHub.md
-      - tudnivalok/github/GitHub-Actions.md
-      - tudnivalok/github/GitHub-credentials.md
-      - tudnivalok/github/contributing.md
-  - "Android Laborok":
-      - android/A01/index.md
-      - android/A02/index.md
-      - android/A03/index.md
-      - android/A04/index.md
-      - android/A05/index.md
+  - "Útmutatók":
+      - guides/htc.md
+  - "Projektek":
+      - projects/main.md
+      - projects/room.md
